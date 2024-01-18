@@ -4,7 +4,7 @@ CREATE SCHEMA oblig2022;
 USE oblig2022;
 SET FOREIGN_KEY_CHECKS=0;
 
--- Round 1 bruh
+
 CREATE TABLE Student
 (
 Studentnr CHAR (6),
@@ -87,4 +87,3 @@ INSERT INTO Eksamensresultat VALUES (252198,2000,'2020-02-22','B');
 INSERT INTO Eksamensresultat VALUES (252200,2000,'2022-05-05','B');
 INSERT INTO Eksamensresultat VALUES (252197,1000,'2018-09-14','A');
 
-select* from student
