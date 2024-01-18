@@ -3,9 +3,9 @@ This projects purpuse is to be an administration system for students exam result
 
 To run this project, firstly make sure you have MySQL workbench installed on your computer. he workbench should be able to connect and make new schemas for this project to work. After the workbench has been downloaded, you can run the MySQL script i have uploaded. For this project to work, you need to run this code in your cmd:
 
-'''
+```python
 pip install mysql.connector
 pip install tkinter
-'''
+```
 
  This project was my first project in python, and it was done as an assignment in my university. Enjoy!
